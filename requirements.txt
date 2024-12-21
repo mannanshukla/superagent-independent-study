@@ -1,0 +1,8 @@
+openai==0.28.1
+trl
+pandas
+numpy
+transformers
+unsloth
+datasets
+python-dotenv
